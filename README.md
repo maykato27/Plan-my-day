@@ -56,7 +56,7 @@ I wanted to deeply understand agentic AI workflows — not just use them, but de
 - **Prompt-driven workflows** using Claude as a planning layer
 - **System design thinking** — how to connect discrete tools into a reliable, low-friction loop
 
-It also became a daily driver. I use it every morning.
+It also became a daily driver. I use it every night.
 
 ---
 
